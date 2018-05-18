@@ -2,6 +2,8 @@
 # e107 emotes restyle
 A restyled version of default e107 emoticons. 
 
+![e107-emote-splash](https://user-images.githubusercontent.com/315195/40239176-55f60792-5ac6-11e8-8d16-e4a653ffad51.png)
+
 # Description
 Currently available in 24x24 pixels image resolution in PNG-24 format. The set is not yet complete and is under active development.
 
