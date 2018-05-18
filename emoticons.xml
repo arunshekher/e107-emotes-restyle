@@ -2,33 +2,32 @@
 <messaging-emoticon-map >
 
 
+<emoticon file="">
+</emoticon>
 <emoticon file="amaze">
 	<string>:amaze:</string>
 </emoticon>
-<emoticon file="awful">
-	<string>:awful:</string>
+<emoticon file="dither">
 </emoticon>
-<emoticon file="bigsmile">
-	<string>:D</string>
+<emoticon file="envy">
 </emoticon>
 <emoticon file="flabbergast">
 	<string>:baffle:</string>
 	<string>:flabbergast:</string>
 </emoticon>
-<emoticon file="neutral">
-	<string>:|</string>
-	<string>:-|</string>
-</emoticon>
 <emoticon file="panic">
 	<string>:-s</string>
 	<string>:panic:</string>
+</emoticon>
+<emoticon file="repulse">
+</emoticon>
+<emoticon file="simper">
 </emoticon>
 <emoticon file="smile">
 	<string>:)</string>
 	<string>:-)</string>
 </emoticon>
-<emoticon file="smug">
-	<string>:smug:</string>
+<emoticon file="smirk">
 </emoticon>
 
 </messaging-emoticon-map>
