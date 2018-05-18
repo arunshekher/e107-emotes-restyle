@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<messaging-emoticon-map >
+
+
+<emoticon file="amaze">
+	<string>:amaze:</string>
+</emoticon>
+<emoticon file="awful">
+	<string>:awful:</string>
+</emoticon>
+<emoticon file="bigsmile">
+	<string>:D</string>
+</emoticon>
+<emoticon file="flabbergast">
+	<string>:baffle:</string>
+	<string>:flabbergast:</string>
+</emoticon>
+<emoticon file="neutral">
+	<string>:|</string>
+	<string>:-|</string>
+</emoticon>
+<emoticon file="panic">
+	<string>:-s</string>
+	<string>:panic:</string>
+</emoticon>
+<emoticon file="smile">
+	<string>:)</string>
+	<string>:-)</string>
+</emoticon>
+<emoticon file="smug">
+	<string>:smug:</string>
+</emoticon>
+
+</messaging-emoticon-map>
