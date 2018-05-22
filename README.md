@@ -13,5 +13,5 @@ Contributions are welcome.
 ### Ways to contribute
 * Find and file issues
 * Submit feature requests
-
+* Propose an idea!
 
